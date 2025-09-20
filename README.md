@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm Hanna and I am currently studying Informatics (system development) at Örebro University.
-I enjoy programming and here on my github you can find some of my projects, both school and personal.
-Some of my other interesets includes gaming, gardening, cooking, and music 🎵 
+I enjoy programming and here on my github you can find some of my projects.
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
